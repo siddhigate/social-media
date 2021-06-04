@@ -2,7 +2,8 @@
 
 
 ## Main feature - People you may know
-Implemented Dijkstra algorithm for **People you may know** feature.
+- Constructed a social network graph based on user's connections.
+- Implemented Dijkstra algorithm for **People you may know** feature.
 
 
 ## Features
